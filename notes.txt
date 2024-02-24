@@ -1,0 +1,43 @@
+variables
+Boxes, containers, pockets - holds some kind of values - different kinds of values - these boxes have names
+
+for loops
+imagine building a lego tower 10 blocks tall
+
+while loops
+imagine baking cookies till the dough runs out
+
+do while
+trial classes
+
+iterations
+imagine you have a box full of toys - go through all toys one by one
+
+lists
+Trains has multiple cars - we can access the items in each car with the help of a number - these cars can hold different values of different types
+
+dictionary
+shelf with lots of containers with labels - each container has some sort of value
+hotel with room numbers - each room number is different and each room has some values
+
+if else statements
+lets say we want to eat ice cream only when it is hot outside - we can say if it is hot outside lets eat ice cream
+but what if its not hot outside - we can say if it is hot outside lets eat ice cream else lets drink juice
+
+elif statements
+
+
+Subject: Follow-Up on Python Instructor and Developer Role
+
+Respected Sir/Madam,
+
+I hope this email finds you well. Firstly, I would like to thank you for giving me the opportunity to interview for the role of Python Instructor and Developer. I wanted to follow up on my recent interviews for the Python Instructor and Developer role at Wonksknow India Technologies Private Limited. I enjoyed learning more about the role and the work ethics during the interview and I'm eager to know when I can expect to hear back regarding the final decision.
+
+I am genuinely excited about the opportunity to potentially join Wonksknow India Technologies Private Limited and am confident that I can contribute significantly to your team with my skills. Your company's mission and the discussions we've had during the interview have only strengthened my interest.
+
+Thank you once again for considering my application. I appreciate your time and attention to my candidacy.
+Looking forward to your response.
+
+Best regards,
+Jagdeep Singh
+
